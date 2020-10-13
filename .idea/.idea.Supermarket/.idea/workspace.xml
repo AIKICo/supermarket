@@ -9,8 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24915435-08dd-4e23-b45d-da23394bae6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Supermarket.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Supermarket/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Supermarket/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Supermarket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Supermarket/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIKI.CO.Supermarket.WebApi/AIKI.CO.Supermarket.WebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AIKI.CO.Supermarket.WebApi/AIKI.CO.Supermarket.WebApi.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.AIKI.CO.Supermarket.WebApi">
@@ -82,13 +83,15 @@
       <option name="presentableId" value="Default" />
       <updated>1602567104609</updated>
       <workItem from="1602567123940" duration="9123000" />
+      <workItem from="1602582787047" duration="511000" />
+      <workItem from="1602583383534" duration="481000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -100,6 +103,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -109,5 +113,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="312" y="161" key="Rider.ProjectTemplateDialog.Size/0.0.1440.860@0.0.1440.860" timestamp="1602567246969" />
+    <state x="2209" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1602583863510">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2209" y="98" width="1022" height="737" key="SettingsEditor/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1602583863510" />
   </component>
 </project>
